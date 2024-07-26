@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinaPia
-- 👀 I’m interested in network security and global networking.
-- 🌱 I’m currently learning advanced security topics, SD-WAN web design and programming.
+- 👀 I’m interested in network security and computer networking.
+- 🌱 I’m currently studying advanced security topics, routing and switching, SD-WAN, web design and programming.
 - 💞️ I’m looking to collaborate on new technology projects.
 
 
